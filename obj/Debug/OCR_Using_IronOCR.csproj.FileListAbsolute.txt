@@ -1,0 +1,14 @@
+D:\Study\ScienceWork\_mag\2021_Jn\OCR_Using_IronOCR\bin\Debug\OCR_Using_IronOCR.exe.config
+D:\Study\ScienceWork\_mag\2021_Jn\OCR_Using_IronOCR\bin\Debug\OCR_Using_IronOCR.exe
+D:\Study\ScienceWork\_mag\2021_Jn\OCR_Using_IronOCR\bin\Debug\OCR_Using_IronOCR.pdb
+D:\Study\ScienceWork\_mag\2021_Jn\OCR_Using_IronOCR\bin\Debug\IronOcr.dll
+D:\Study\ScienceWork\_mag\2021_Jn\OCR_Using_IronOCR\bin\Debug\IronOcr.xml
+D:\Study\ScienceWork\_mag\2021_Jn\OCR_Using_IronOCR\obj\Debug\OCR_Using_IronOCR.csprojAssemblyReference.cache
+D:\Study\ScienceWork\_mag\2021_Jn\OCR_Using_IronOCR\obj\Debug\OCR_Using_IronOCR.Form1.resources
+D:\Study\ScienceWork\_mag\2021_Jn\OCR_Using_IronOCR\obj\Debug\OCR_Using_IronOCR.Properties.Resources.resources
+D:\Study\ScienceWork\_mag\2021_Jn\OCR_Using_IronOCR\obj\Debug\OCR_Using_IronOCR.csproj.GenerateResource.cache
+D:\Study\ScienceWork\_mag\2021_Jn\OCR_Using_IronOCR\obj\Debug\OCR_Using_IronOCR.csproj.CoreCompileInputs.cache
+D:\Study\ScienceWork\_mag\2021_Jn\OCR_Using_IronOCR\obj\Debug\OCR_Using_IronOCR.csproj.CopyComplete
+D:\Study\ScienceWork\_mag\2021_Jn\OCR_Using_IronOCR\obj\Debug\OCR_Using_IronOCR.exe
+D:\Study\ScienceWork\_mag\2021_Jn\OCR_Using_IronOCR\obj\Debug\OCR_Using_IronOCR.pdb
+D:\Study\ScienceWork\_mag\2021_Jn\OCR_Using_IronOCR\bin\Debug\OcrData\Russian.ocrdata
